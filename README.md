@@ -1,7 +1,7 @@
-# Disjunctive Normal Unsupervised LDA for P300 (DNUL V.1.0)
+# Disjunctive Normal Unsupervised LDA Classifier for P300 
 
-This is the last version of DNUL classifier at my thesis stage.
+This file includes a brief description of the DNUL classifier with some explanations of how to run this code.
 
-DNUL V.2.0 is added as well.
+First of all you have to clone this directory in your computer or you can download the files by [clicking here](https://github.com/MajedElwardy/DNUL_Classifier/archive/master.zip) 
 
 I will add more details later and equations.
