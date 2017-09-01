@@ -1,6 +1,6 @@
-## Disjunctive Normal Unsupervised LDA Classifier for P300 
+# Disjunctive Normal Unsupervised LDA Classifier for P300 
 
-# Instructions
+## Instructions
 
 This file includes a brief description of the DNUL classifier with some explanations of how to run this code.
 
