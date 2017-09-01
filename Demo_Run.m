@@ -27,7 +27,7 @@ stepsize = 0.2;       % stepsize/learning rate
 w_init = randn(f+1,1);
 
 % Rund different versions
-[w_V1, E_start_V1, E_end_V1] = DNUL(X,w_init,n,max_epoch,stepsize,beta);
+[w_V1, E_start_V1, E_end_V1] = DNUL_V1(X,w_init,n,max_epoch,stepsize,beta);
 
 [w_V2, E_start_V2, E_end_V2] = DNUL_V2(X,w_init,n,max_epoch,stepsize,beta);
 

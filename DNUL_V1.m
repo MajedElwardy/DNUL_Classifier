@@ -1,4 +1,4 @@
-function [w,Engy_start, Engy_end, E_plot_pos, E_plot_neg] = DNUL(x,w,N,max_epoch,stepsize,alpha)
+function [w,Engy_start, Engy_end, E_plot_pos, E_plot_neg] = DNUL_V1(x,w,N,max_epoch,stepsize,alpha)
 
 
 M = size(x,1)/N;
