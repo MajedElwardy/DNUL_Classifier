@@ -1,4 +1,4 @@
-### Disjunctive Normal Unsupervised LDA Classifier for P300 
+## Disjunctive Normal Unsupervised LDA Classifier for P300 
 
 #Instructions
 
