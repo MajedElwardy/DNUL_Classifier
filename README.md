@@ -1,4 +1,5 @@
 # Disjunctive Normal Unsupervised LDA Classifier for P300 
+This repository includes different versions of DNUL classifier and tested with a synthetic data.
 
 ## Instructions
 
