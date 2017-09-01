@@ -3,9 +3,9 @@ This repository includes different versions of DNUL classifier and tested with a
 
 ## Instructions
 
-This file includes a brief description of the DNUL classifier with some explanations of how to run this code.
+To run the code:
 
-First of all you have to `clone` this directory or you can download the files by [clicking here](https://github.com/MajedElwardy/DNUL_Classifier/archive/master.zip).
+1. `clone` this repository to your computer or you can download the files by [clicking here](https://github.com/MajedElwardy/DNUL_Classifier/archive/master.zip).
 
 
 
